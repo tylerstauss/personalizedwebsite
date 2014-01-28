@@ -57,7 +57,9 @@ ul.nav li a {
 }
 
 #featured-cupcake img {
+	width: 300px;
 	border: 8px solid #faf3bc;
+	margin-left: 140px;
 }
 
 #copyright {
